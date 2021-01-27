@@ -1,1 +1,2 @@
-# Fogchain-project-in-NTU
+# FogChain
+Blockchain project at NTU
